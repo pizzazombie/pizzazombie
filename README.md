@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Lev
 #### I am software engineer from Russia
 ![I am software engineer from Russia](https://github.com/pizzazombie/pizzazombie.me/blob/master/music/src/me_glitch.png?raw=true)
@@ -8,7 +6,7 @@ I have been programming since 2018, for now I work as **java backend developer.*
 
 Skills: **JAVA / C / HTML / CSS / JS / RUBY / PHP**
 
-- 🌱 I’m currently learning kotlin 
+- 🌱 I’m currently learning **kotlin **
 - 👯 I’m looking to collaborate on mobile app 
 - 📫 How to reach me: lev.stakheev@gmail.com or [@pizzazombie](https://t.me/pizzazombie) 
 
