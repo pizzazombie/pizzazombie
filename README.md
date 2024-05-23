@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Lev
-#### I am software engineer from Russia
-![I am software engineer from Russia](https://github.com/pizzazombie/pizzazombie.me/blob/master/music/src/me_glitch.png?raw=true)
+#### I am software engineer
+![I am software engineer](https://github.com/pizzazombie/pizzazombie.me/blob/master/music/src/me_glitch.png?raw=true)
 
-I have been programming since 2018, for now I work as **java backend developer.** I also study at the [school 21 (l'ecole 42)](https://42.fr/en/homepage/), completing educational projects in C and other languages. In my free time, I learn new languages and technologies, I like to make different bots, here you can see some of my projects
+I have been programming since 2018, for now I work as **java backend developer.** 
 
-Skills: **JAVA / C / HTML / CSS / JS / RUBY / PHP**
+My main skills are **JAVA, GO and C **
 
 - 🌱 I’m currently learning **kotlin **
 - 👯 I’m looking to collaborate on mobile app 
