@@ -4,7 +4,7 @@
 
 I have been programming since 2018, for now I work as **java backend developer.** 
 
-My main skills are **JAVA, GO and C **
+My main skills are JAVA, GO and C
 
 - 🌱 I’m currently learning **kotlin **
 - 👯 I’m looking to collaborate on mobile app 
