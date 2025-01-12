@@ -2,9 +2,9 @@
 #### I am software engineer
 ![I am software engineer](https://github.com/pizzazombie/pizzazombie.me/blob/master/music/src/me_glitch.png?raw=true)
 
-I have been programming since 2018, for now I work as **java backend developer.** 
+I have been programming since 2018, for now I work as **java/go backend developer.** 
 
-My main skills are JAVA, GO and C
+My main skills are JAVA, GOLANG and C
 
 - 🌱 I’m currently learning **kotlin **
 - 👯 I’m looking to collaborate on mobile app 
