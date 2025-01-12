@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Lev
 #### I am software engineer
-![I am software engineer](https://github.com/pizzazombie/pizzazombie.me/blob/master/music.pizzazombie.me/src/me_glitch.png)
 
 I have been programming since 2018, for now I work as **java/go backend developer.** 
 
